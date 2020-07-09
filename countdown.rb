@@ -1,4 +1,4 @@
-def count_down_to_midnight(dum)
+def countdown(num)
   
 num = 10
 while num > 0
