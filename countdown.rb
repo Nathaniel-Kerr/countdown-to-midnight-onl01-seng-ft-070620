@@ -1,8 +1,8 @@
 def countdown(phrase)
-number = 20
+n = 20
 while n > 0
 
-puts "#{number} SECOND(S)!"
+puts "#{n} SECOND(S)!"
  number -= 1
  
 
