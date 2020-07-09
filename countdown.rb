@@ -1,11 +1,11 @@
-def count_down_to_midnight
+def count_down_to_midnight(dum)
   
-n = 10
-while n > 0
+num = 10
+while num > 0
 
-puts "#{n} SECOND(S)!"
+puts "#{num} SECOND(S)!"
 
-n -= 1
+num -= 1
 
  
 
