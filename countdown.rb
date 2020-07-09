@@ -1,5 +1,5 @@
 def countdown(phrase)
-n = 20
+n = 10
 while n > 0
 
 puts "#{n} SECOND(S)!"
