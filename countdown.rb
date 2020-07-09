@@ -17,7 +17,7 @@ end
   puts "#{num} SECOND(S)!"
   sleep 1 
   num -= 1
-  
+  "HAPPY NEW YEAR!"
 end 
-"HAPPY NEW YEAR!"
+
 end
