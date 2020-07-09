@@ -9,6 +9,6 @@ num -= 1
 end
  "HAPPY NEW YEAR!"
 end
-  
+  def 
   
 end 
