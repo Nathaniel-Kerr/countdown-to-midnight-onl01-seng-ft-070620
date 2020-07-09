@@ -5,6 +5,6 @@ while n > 0
 puts "#{number} SECOND(S)!"
  number -= 1
  
-
+def countdown (number)
   end
 end 
