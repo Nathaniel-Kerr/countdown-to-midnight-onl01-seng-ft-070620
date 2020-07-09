@@ -13,5 +13,6 @@ end
   
   num = 10
   while num > 0 
-  
+  puts "#{num} SECOND(S)!"
+  sleep 1 
 end 
