@@ -1,7 +1,7 @@
 def count_down_to_midnight
 n = 10
 while n > 0
- number -= 1
+ n -= 1
 puts "#{n} SECOND(S)!"
 
  
